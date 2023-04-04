@@ -1,1 +1,2 @@
-# simplw222
+print ‘Hello Python!’
+$ python main.py
